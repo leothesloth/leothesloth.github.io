@@ -1,0 +1,30 @@
+body {
+	background: rgb(152,155,156);
+}
+
+p {
+	color: rgb(189,255,207);
+	
+}
+
+h1 {
+	text-align: center;
+	color: rgb(83,134,139);
+}
+
+h2 {
+	text-align: left;
+	color: white;
+} 
+
+header {
+	text-align: center;
+}
+
+ul {
+	text-align: left;
+}
+
+h3 {
+	text-align: left;
+}
